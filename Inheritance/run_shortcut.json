@@ -1,0 +1,9 @@
+[
+    {
+        "key": "ctrl+shift+l",
+        "command": "workbench.action.terminal.sendSequence",
+        "args": {
+            "text": "run ${fileBasenameNoExtension}\u000D"
+        }
+    }
+]
